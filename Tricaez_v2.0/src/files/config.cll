@@ -1,0 +1,4 @@
+jdbc:mysql://192.168.0.254:3306/
+tribunal
+root
+tricaez
